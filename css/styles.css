@@ -1,0 +1,13 @@
+.left-menu {
+  background-color: #eee;
+  height: 2200px;
+}
+
+.contents {
+  padding: 30px;
+}
+
+.contents h3{
+  text-decoration: underline;
+  font-size: 16px;
+}
