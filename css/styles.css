@@ -11,3 +11,22 @@
   text-decoration: underline;
   font-size: 16px;
 }
+
+.accountMenu {
+  text-align: right;
+}
+
+#featuredPicture {
+  width: 350px;
+  float: left;
+  padding: 0px 12.6px 0px 0px;
+}
+
+.containerCustom {
+  margin: 0px 0px 0px 200px;
+}
+
+.panel-default a {
+  font-weight: bold;
+  
+}
